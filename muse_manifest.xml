@@ -1,0 +1,84 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="00mnwtrdsns.com" resolutions="1x,2x" timestamp="1598583977509">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4148717159" ref="index"/>
+    <file name="about-me.css" crc="356429089" ref="about-me"/>
+  </folder>
+  <folder name="assets">
+    <file name="hamilton_olivia_resume_2020_(1).pdf" crc="4029777339" seo="true" mt="1590074871000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-me"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-me"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:about-me"/>
+  </folder>
+  <folder name="images">
+    <file name="pointedscalyflounder-size_restricted.gif" crc="3947465981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pointedscalyflounder-size_restricted_2x.gif" crc="3947465981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-me"/>
+    <file name="img_9567 2.jpg" crc="98588613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0008-crop-u1033.jpg" crc="309200686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_2604.jpg" crc="4230532545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0393 3.jpg" crc="3876838627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0393 3_2x.jpg" crc="4259063957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled_artwork 23.jpg" crc="43035527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0936.jpg" crc="377625226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0936_2x.jpg" crc="133204577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0263.jpg" crc="57920948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="magengaged_front (1).jpg" crc="4003122954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="magengaged_front (1)_2x.jpg" crc="489338829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2020-08-27 at 94011 am.jpg" crc="3896336497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2020-08-27 at 94011 am_2x.jpg" crc="3826816036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red_me.jpg" crc="156546440" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="red_me_2x.jpg" crc="121443970" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted-svg-337x1.svg" crc="4069649415" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 337x1_poster_.png" crc="390466098" ref="about-me"/>
+  </folder>
+  <file name="index.html" crc="4027942835" seo="true" mt="1598576981957" redirect="true"/>
+  <file name="about-me.html" crc="4142669233" seo="true" mt="1598576370917" redirect="true"/>
+</manifest>
